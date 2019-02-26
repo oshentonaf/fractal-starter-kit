@@ -1,6 +1,6 @@
 # Fractal Starter Kit
 
-[![Build Status](//travis-ci.org/alarisprime/fractal-starter-kit.svg?branch=master)](//travis-ci.org/alarisprime/fractal-starter-kit)
+[![Build Status](https://travis-ci.org/alarisprime/fractal-starter-kit.svg?branch=master)](//travis-ci.org/alarisprime/fractal-starter-kit)
 
 ## Getting Started
 
